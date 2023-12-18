@@ -13,18 +13,18 @@ ul {
 }
 
 .summit-logo {
-  color: #2e2f42;
-  font-family: Raleway;
+  color: #4D5AE5;
+  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
 .summit-logo-blue {
-  color: #4d5ae5;
-  font-family: Raleway;
+  color: #2E2F42;
+  font-family: Raleway, sans-serif
   font-size: 18px;
   font-weight: 700;
   line-height: 1.16;
@@ -40,7 +40,12 @@ ul {
   letter-spacing: 0.02em;
 }
 
+.summit-menu-link {
+  color: #2e2f42;
+}
+
 .summit-menu-link:hover,
+.summit-menu-link:focus,
 .summit-menu-link:active {
   color: #404bbf;
 }
@@ -52,6 +57,10 @@ ul {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+
+.contacts {
+  font-style: normal;
 }
 
 .contacts-menu-link:hover,
@@ -82,7 +91,8 @@ ul {
   cursor: pointer;
 }
 
-.top-push:hover {
+.top-push:hover,
+.top-push:focus {
   background-color: #404bbf;
 }
 
@@ -103,6 +113,20 @@ ul {
 
 .team-post {
   background-color: #f4f4fd;
+}
+
+.team-post-title {
+  color:#2E2F42;
+text-align: center;
+font-size: 36px;
+font-weight: 700;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+}
+
+.team-list {
+  background-color: #FFFFFF;
 }
 
 .team-post-mini-title {
@@ -165,10 +189,10 @@ ul {
 
 .conclusion-logo-blue {
   color: #4d5ae5;
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
