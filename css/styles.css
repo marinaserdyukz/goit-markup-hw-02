@@ -117,12 +117,12 @@ ul {
 
 .team-post-title {
   color:#2E2F42;
-text-align: center;
-font-size: 36px;
-font-weight: 700;
-line-height: 1.11;
-letter-spacing: 0.02em;
-text-transform: capitalize;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
 
 .team-list {
@@ -178,8 +178,8 @@ text-transform: capitalize;
 }
 
 .conclusion-logo {
-  color: #f4f4fd;
-  font-family: Raleway;
+  color: #4D5AE5;
+  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.16;
@@ -188,7 +188,7 @@ text-transform: capitalize;
 }
 
 .conclusion-logo-blue {
-  color: #4d5ae5;
+  color: #F4F4FD;
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
