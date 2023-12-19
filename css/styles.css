@@ -111,6 +111,10 @@ ul {
   letter-spacing: 0.02em;
 }
 
+.team-post {
+  background-color: #f4f4fd;
+}
+
 .team-list-item {
   background-color: #f4f4fd;
 }
