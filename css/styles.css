@@ -45,8 +45,7 @@ ul {
 }
 
 .summit-menu-link:hover,
-.summit-menu-link:focus,
-.summit-menu-link:active {
+.summit-menu-link:focus {
   color: #404bbf;
 }
 
