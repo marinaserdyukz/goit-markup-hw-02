@@ -14,7 +14,17 @@
     font-weight: 500;
 }
 
+.header-list a:hover, 
+.header-list a:focus {
+    color: #404bbf;
+}
+
 .header-contacts-list a {
     font-style: normal;
     color: #434455;
+}
+
+.header-contacts-list a:hover,
+.header-contacts-list a:focus {
+    color: #404bbf;
 }
