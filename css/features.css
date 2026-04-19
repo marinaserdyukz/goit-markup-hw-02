@@ -1,10 +1,10 @@
-.features-list h3 {
+.features-item-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
 }
 
-.features-list p {
+.features-item-description {
     font-size: 16px;
     color: #434455;
 }
